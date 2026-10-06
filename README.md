@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there!! My name is Lilian Nguyen and I am Vietnamese American. I like to weightlift and a fun fact about me is that I have a small floral business!! 
+
+## I plan to be an actuary in the future and hope to get more experiences with a DS degree to help move towards my goal. I have taken some computing classes and business class back in high school. 
 
 <!--
 **lilian2417/Lilian2417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
